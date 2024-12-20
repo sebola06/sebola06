@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sebola06
-- 👀 I’m interested in: Coding, musical instruments, games...
-- 🌱 I’m currently learning: Java Script, HTML, CSS
+- 👋 Hi, I’m @sebola06.
+- 👀 I’m interested in: Coding, musical instruments, games and drawing.
+- 🌱 I’m currently learning: Java Script, HTML, CSS, Python.
   
   
 
